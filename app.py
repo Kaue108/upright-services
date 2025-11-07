@@ -694,8 +694,8 @@ HTML = """
                     <div class="contact-box">
                         <div class="contact-label">Contact</div>
                         <div class="contact-value">
-                            Phone / WhatsApp: <strong>(xxx) xxx-xxxx</strong><br>
-                            Email: <strong>youremail@example.com</strong>
+                            Phone / WhatsApp: <strong>(817) 772-8774</strong><br>
+                            Email: <strong>xxx@example.com</strong>
                         </div>
                     </div>
                     <div class="contact-box">
